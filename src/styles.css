@@ -1,0 +1,13 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+* {
+  border: solid 2px;
+}
+div {
+  border-color: olive;
+}
+span {
+  border-color: forestgreen;
+}
